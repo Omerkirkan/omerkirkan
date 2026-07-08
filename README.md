@@ -17,7 +17,7 @@
 
 <a href="https://omerweb.site/"><img src="https://img.shields.io/badge/omerweb.site-101317?style=for-the-badge&logo=firefoxbrowser&logoColor=4CE0A1&labelColor=101317" alt="Website" /></a>
 <a href="https://github.com/omerkirkan"><img src="https://img.shields.io/badge/GitHub-101317?style=for-the-badge&logo=github&logoColor=4CE0A1&labelColor=101317" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/omerkirkan"><img src="https://img.shields.io/badge/LinkedIn-101317?style=for-the-badge&logo=linkedin&logoColor=4CE0A1&labelColor=101317" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/omerkirkan"><img src="https://img.shields.io/badge/LinkedIn-101317?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzRDRTBBMSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&labelColor=101317" alt="LinkedIn" /></a>
 <a href="mailto:krkanomer@gmail.com"><img src="https://img.shields.io/badge/Email-101317?style=for-the-badge&logo=gmail&logoColor=4CE0A1&labelColor=101317" alt="Email" /></a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=omerkirkan&style=for-the-badge&color=4ce0a1&label=VISITORS" alt="Profile views" />
@@ -26,7 +26,7 @@
 
 <br/>
 
-## `$ whoami`
+### `$ whoami`
 
 I'm a fullstack developer who sees software as a means, not an end. I work
 across every layer of the **TypeScript**, **JavaScript** and **.NET**
@@ -39,7 +39,7 @@ on a screen, but when it works in people's lives.
 
 <br/>
 
-## `$ ./stack --list`
+### `$ ./stack --list`
 
 <div align="center">
 
@@ -63,7 +63,7 @@ on a screen, but when it works in people's lives.
 
 <br/>
 
-## `$ git log --oneline ./stats`
+### `$ git log --oneline ./stats`
 
 <div align="center">
 
@@ -73,14 +73,14 @@ on a screen, but when it works in people's lives.
 
 <br/>
 
-## `$ ./connect`
+### `$ ./connect`
 
 <div align="center">
 
 **`omerkirkan:~$`** — always open to good conversations and cool projects.
 
 <a href="https://omerweb.site/"><img src="https://img.shields.io/badge/Portfolio-4ce0a1?style=for-the-badge&logo=vercel&logoColor=101317&labelColor=4ce0a1" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/omerkirkan"><img src="https://img.shields.io/badge/Let's_talk-101317?style=for-the-badge&logo=linkedin&logoColor=4CE0A1" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/omerkirkan"><img src="https://img.shields.io/badge/Let's_talk-101317?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzRDRTBBMSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
 
 <br/><br/>
 
