@@ -9,9 +9,7 @@
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4CE0A1&center=true&vCenter=true&width=560&height=48&lines=%C3%96mer+K%C4%B1rkan+is+making+software;%C3%96mer+K%C4%B1rkan+is+shipping+products;%C3%96mer+K%C4%B1rkan+is+building+the+web" alt="Ömer Kırkan is making software" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4CE0A1&center=true&vCenter=true&width=560&height=48&lines=%C3%96mer+K%C4%B1rkan+is+making+software;%C3%96mer+K%C4%B1rkan+is+shipping+products;%C3%96mer+K%C4%B1rkan+is+building+the+web" alt="Ömer Kırkan is making software" />
 
 <br/>
 
