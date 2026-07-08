@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace">
+  <!-- background glow -->
+  <defs>
+    <radialGradient id="glow" cx="18%" cy="20%" r="80%">
+      <stop offset="0%" stop-color="#4ce0a1" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#4ce0a1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4ce0a1"/>
+      <stop offset="100%" stop-color="#a8f5cd"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="340" rx="20" fill="#101317"/>
+  <rect width="1200" height="340" rx="20" fill="url(#glow)"/>
+  <rect x="1.5" y="1.5" width="1197" height="337" rx="18.5" fill="none" stroke="#2e3339" stroke-width="1.5"/>
+
+  <!-- window title bar -->
+  <line x1="0" y1="58" x2="1200" y2="58" stroke="#2e3339" stroke-width="1.5"/>
+  <circle cx="34" cy="30" r="7" fill="#ff5f56"/>
+  <circle cx="60" cy="30" r="7" fill="#ffbd2e"/>
+  <circle cx="86" cy="30" r="7" fill="#4ce0a1"/>
+  <text x="600" y="35" text-anchor="middle" fill="#565c64" font-size="15">omerkirkan — zsh</text>
+
+  <!-- terminal body -->
+  <g font-size="19">
+    <!-- line 1 -->
+    <text x="40" y="110"><tspan fill="#4ce0a1" font-weight="700">omerkirkan</tspan><tspan fill="#8f96a0"> :~$ </tspan><tspan fill="#e6e9ee">whoami</tspan></text>
+    <text x="40" y="142"><tspan fill="#2e9c6e">→</tspan><tspan fill="#a8f5cd" font-weight="700"> Ömer Kırkan </tspan><tspan fill="#8f96a0">— fullstack developer</tspan></text>
+
+    <!-- line 2 -->
+    <text x="40" y="188"><tspan fill="#4ce0a1" font-weight="700">omerkirkan</tspan><tspan fill="#8f96a0"> :~$ </tspan><tspan fill="#e6e9ee">./server --sync</tspan></text>
+    <text x="40" y="220"><tspan fill="#2e9c6e">✓</tspan><tspan fill="#c9cdd4"> web  </tspan><tspan fill="#2e9c6e">✓</tspan><tspan fill="#c9cdd4"> mobile  </tspan><tspan fill="#2e9c6e">✓</tspan><tspan fill="#c9cdd4"> backend  </tspan><tspan fill="#2e9c6e">✓</tspan><tspan fill="#c9cdd4"> automation</tspan></text>
+    <text x="40" y="248"><tspan fill="#565c64" font-size="15">// one core — web, mobile, backend &amp; automation…</tspan></text>
+
+    <!-- line 3 + cursor -->
+    <text x="40" y="294"><tspan fill="#4ce0a1" font-weight="700">omerkirkan</tspan><tspan fill="#8f96a0"> :~$ </tspan></text>
+    <rect x="207" y="279" width="11" height="22" fill="#4ce0a1">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" keyTimes="0;0.5;0.5;1" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- accent underline -->
+  <rect x="40" y="316" width="120" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
