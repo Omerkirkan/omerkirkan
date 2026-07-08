@@ -67,7 +67,7 @@ on a screen, but when it works in people's lives.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=omerkirkan&hide_border=true&background=101317&border=2e3339&stroke=2e3339&ring=4ce0a1&fire=a8f5cd&currStreakLabel=4ce0a1&sideLabels=8f96a0&dates=565c64&currStreakNum=e6e9ee&sideNums=e6e9ee&dayLabels=8f96a0" alt="GitHub streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=omerkirkan&card_width=480&hide_border=true&background=101317&border=2e3339&stroke=2e3339&ring=4ce0a1&fire=a8f5cd&currStreakLabel=4ce0a1&sideLabels=8f96a0&dates=565c64&currStreakNum=e6e9ee&sideNums=e6e9ee&dayLabels=8f96a0" alt="GitHub streak" width="480" />
 
 </div>
 
